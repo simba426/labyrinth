@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-##labyrinth
-A labyrinth game with AStar&amp;reinforcement learning AI
-
-
-
-
-=======
 # labyrinth
 
 A labyrinth game with AStar&amp;reinforcement learning AI
@@ -29,4 +21,3 @@ A labyrinth game with AStar&amp;reinforcement learning AI
 用户数据管理。
 
 设计一个自动走迷宫的程序，使得得到最短路径。
->>>>>>> 39bbb206bdd8f660e3505aa0083aea7ac33502be
